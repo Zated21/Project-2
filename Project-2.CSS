@@ -1,0 +1,448 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar h3 .navigation h4{
+    display: flex;
+    /* Mary */
+
+font-family: Open Sans;
+}
+
+.navbar h3{
+    font-family: Open Sans;
+font-size: 45px;
+font-weight: 800;
+line-height: 61px;
+letter-spacing: 0%;
+margin-left: 161px;
+}
+
+.navigation{
+    margin-right: 161px;
+}
+
+
+.r{
+    color:rgb(253, 110, 10) ;
+}
+       /* navbar rightside */
+
+
+.navbar h4{
+    background-color:#FD6E0A ;
+    color: #FFFFFF ;
+    padding: 18px 35px;
+    border-radius: 5px;
+}
+
+.navbar{
+    justify-content:space-between;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+}
+ 
+.navigation{
+    display: flex;
+    align-items: center;
+    margin: 68px 161px;
+}
+
+.navigation p{
+    padding-right: 35px;
+}
+
+.section1{
+    background-color: #FFF8F3;
+}
+
+.main{
+    background-image: url(../Projects/portfolio-resources/images/Jamal.png), url(../Projects/portfolio-resources/images/developer.png), url(../Projects/portfolio-resources/images/header_bg.png);
+
+    background-repeat: no-repeat;
+    background-position: bottom right, bottom left, bottom right;
+}
+
+
+
+.content{
+    margin-left: 161px;
+}
+
+body{
+    font-family: Open Sans;
+}
+.content .introduction {
+font-family: Open Sans;
+Font-weight: 600;
+Font-size: 31px;
+color: #474747;
+margin-top: 161px;
+}
+
+.name{
+    margin-top: 5px;
+    color: rgb(24, 24, 24);
+font-size: 59px;
+font-weight: 700;
+line-height: 116px;
+}
+
+.information{
+  margin-top:14px;
+
+  color: rgb(117, 117, 117);
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 20px;
+}
+
+
+.cbutton , .dbutton{
+    margin-top: 21px;
+}
+
+.cbutton {
+    padding: 18px 30px;
+    background-color: #FFF8F3;
+    color: #FD6E0A;
+    border: #FD6E0A solid; 
+    border-radius: 5px;
+}
+
+i{
+    margin-right: 5px;
+}
+
+.dbutton{
+    padding: 18px 30px;
+    background-color: #FD6E0A;
+    color: #FFF8F3;
+    border: #FD6E0A solid;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.dbutton , .cbutton{
+    margin-bottom: 184px;
+}
+
+.navigation p:hover{
+    background-color: rgb(216, 209, 209);
+    border-radius: 5px;
+    position: initial;
+    padding: 18px 20px;
+}
+
+/* Section Two */
+ 
+.about-me{
+ 
+}
+
+.about-div{
+    background-color:#FFF8F3;
+    
+}
+
+.section2{
+    background-color: white;
+    
+}
+
+.innerdiv{
+    border-radius: 20px;
+    background-color: white;
+    padding: 40px;
+}
+
+.secmain2{
+    background-color: #FFF8F3;
+    padding: 91px 109px;
+    border-radius: 20px;
+}
+
+.secmain2{
+    width: 1140px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 91px;
+    border-radius: 10px;
+    margin-bottom: 91px;
+}
+
+.about-me H1 {
+    color: rgb(24, 24, 24);
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+margin-bottom: 21px;
+}
+
+.about-me p{
+    color: rgb(117, 117, 117);
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 400;
+text-align: center;
+margin-bottom: 15px;
+}
+
+.infodiv{
+    display: flex;
+    justify-content: space-evenly;
+  
+
+    
+    
+}
+
+.headerdiv{
+    display: flex;
+   justify-content: start;
+    text-align: center;
+    font-weight: 700;
+}
+
+.headerdiv{
+    font-size: 24px;
+}
+
+.infoname{
+    margin-left: 143px;
+}
+
+.infoemail{
+    margin-left: 208px;
+}
+
+.infodate{
+    margin-left: 198px;
+}
+
+.infofrom{
+    margin-left: 140px;
+}
+
+.skilldiv{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.skilldiv > h4{
+    color: rgb(24, 24, 24);
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 700;
+}
+
+.skilldiv > p{
+    color: rgb(117, 117, 117);
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+}
+
+img{
+    width: 44px;
+    height: 44px;
+}
+
+.skilldiv{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.skilldiv > p{
+    margin-top: 80px;
+    align-items: center;
+}
+
+.skilldiv >p >span{
+    display: flex;
+    flex-direction: column;
+}
+
+.skilldiv{
+    padding: 50px 300px 80px 300px;
+}
+
+ .mongo > p > span{
+    color: rgb(24, 24, 24);
+font-family: Open Sans;
+font-size: 20px;
+margin-bottom: 20px;
+}
+
+ .mongo > p{
+    color: rgb(117, 117, 117);
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+
+}
+
+.mongo{
+    background-color: #FFF8F3;
+    margin-right: 30px;
+    padding: 30px 30px 30px 30px;
+}
+
+.mongo > p > span{ 
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.mongo{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px;
+    color: #474747;
+}
+
+.skilldiv{
+    margin-bottom: 50px;
+}
+
+ .cv1{
+    margin-top: 80px;
+ }
+.cv2, .cv1, .cv3{
+    display:flex;
+    padding: px 18px 128px;
+    margin-bottom: 50px;
+    justify-content: space-evenly;
+}
+
+hr{
+    margin-bottom: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+
+.experience{
+    margin-left: 390px;
+}
+
+.education{
+    margin-left: 520px;
+}
+
+.education, .experience{
+    display: inline;
+    margin-bottom: 80px;
+    background-color: #FD6E0A;
+    width: fit-content;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.summary{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+
+}
+    
+
+.cv2 >div > h1, .cv1> div > h1, .cv3 > div > h1{
+margin-bottom: 30px;
+}
+.cv2 >div > h3, .cv1> div > h3, .cv3 > div > h3{
+    margin-bottom: 20px;}
+
+    .ex > div > Button{
+        padding: 18px 30px;
+        background-color: #FD6E0A;
+        color: #FFF8F3;
+        border: #FD6E0A solid;
+        border-radius: 5px;
+        width: fit-content;
+    }
+
+    .ex > div{
+     display: flex;
+     justify-content: center;
+     margin-bottom: 100px;
+    }
+
+    footer{
+        background-color: #FFF8F3;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .left , .right{
+        margin-top: 100px;
+    }
+
+  
+    
+
+    .left > h1> p{
+        margin-top: 30px;
+        color: rgb(71, 71, 71);
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+    }
+
+    .left > h1{
+        margin-bottom: 30px;
+        color: rgb(24, 24, 24);
+font-family: Open Sans;
+font-size: 35px;
+font-weight: 700;}
+
+.right > form > h1{
+    color: rgb(24, 24, 24);
+    font-family: Open Sans;
+    font-size: 35px;
+    font-weight: 700;
+  margin-bottom: 28px;
+}
+
+.right > form > input{
+  
+width: 500px;
+outline: none;
+font-size: 1.2em;
+padding: 0 15px;
+line-height: 80px;
+border-radius: 10px;
+margin-bottom: 30px;
+border: none;
+}
+
+.msg{
+    height: 300px;
+    position: absolute;
+}
+
+
+.sub{
+    margin-top: 600px;
+    margin-left: 600px;
+    padding: 18px 30px;
+    background-color: #FD6E0A;
+    color: #FFF8F3;
+    border: #FD6E0A solid;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.left > img {
+    margin-bottom: 560px;
+    margin-right: 10px;
+    border: #FD6E0A solid;
+    border-radius: 100px;
+}
