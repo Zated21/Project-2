@@ -61,7 +61,7 @@ margin-left: 161px;
 }
 
 .main{
-    background-image: url(../project-2/images/Jamal.png), url(../project-2/images/developer.png), url(../project-2/images/header_bg.png);
+    background-image: url(./images/Jamal.png), url(./images/developer.png), url(./images/header_bg.png);
 
     background-repeat: no-repeat;
     background-position: bottom right, bottom left, bottom right;
